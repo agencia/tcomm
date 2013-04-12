@@ -420,7 +420,7 @@
               </li>
               <li data-theme="c">
                   <a id="btn_camaras" href="#camaras" data-transition="slide">
-                      Camaras
+                      Cámaras
                   </a>
               </li>
               <li data-theme="c">
@@ -519,7 +519,7 @@
               <ul>
                   <li>
                       <a href="#camaras" data-transition="fade" class="ui-btn-active ui-state-persist">
-                          Camaras
+                          Cámaras
                       </a>
                   </li>
               </ul>
@@ -531,7 +531,7 @@
   <!-- Amenidades -->
   <div data-role="page" id="amenidad">
       <div data-theme="c" data-role="header">
-          <a data-role="button" href="#menu" data-icon="home" data-iconpos="left"
+          <a data-role="button" href="#page3" data-icon="home" data-iconpos="left"
           class="ui-btn-right">
               Home
           </a>
@@ -738,7 +738,7 @@
   <!-- Eventos -->
   <div data-role="page" id="page10">
       <div data-theme="c" data-role="header">
-          <a data-role="button" href="#page1" data-icon="home" data-iconpos="left"
+          <a data-role="button" href="#page3" data-icon="home" data-iconpos="notext"
           class="ui-btn-right">
               Home
           </a>
@@ -766,7 +766,7 @@
   <!-- Eventos_Privados -->
   <div data-role="page" id="page11">
       <div data-theme="c" data-role="header">
-          <a data-role="button" data-direction="reverse" data-rel="back" href="#page1"
+          <a data-role="button" data-direction="reverse" data-rel="back" href="#page3"
           data-icon="home" data-iconpos="left" class="ui-btn-right">
               Home
           </a>
@@ -819,7 +819,7 @@
   <!-- Eventos_Crear -->
   <div data-role="page" id="page12">
       <div data-theme="c" data-role="header">
-          <a data-role="button" data-direction="reverse" data-rel="back" href="#page1"
+          <a data-role="button" data-direction="reverse" data-rel="back" href="#page3"
           data-icon="home" data-iconpos="left" class="ui-btn-right">
               Home
           </a>
